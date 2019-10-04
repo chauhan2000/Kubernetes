@@ -1,0 +1,9 @@
+Kubernetes is an open source system for automating deplyoment , scaling and management of containerised application.
+Namespace : unique identifier
+
+Kubernetes is an orchestration System (orchestration means all the scheduling, managing, match containers to machines, allocation of memory is there)
+
+Kubernetes provides Alert Management
+
+Kubernetes also manages the containers if there are n no. of containers
+Similar to KUBERNETES : Mesos, Docker Swarm, Kubernetes, Nomad
